@@ -1,0 +1,14 @@
+.idea
+.venv
+venv
+env
+__pycache__
+*.sqlite3
+media
+static
+mediafiles
+staticfiles
+nohup.out
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
